@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/iv-zettle-kasten/structured-process-checklist/"}
+{"dg-publish":true,"permalink":"/iv-zettle-kasten/structured-process-checklist/","contentClasses":"admonitions.css"}
 ---
 
  `VIEW[{website}][link]` 
